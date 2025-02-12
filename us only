@@ -1,0 +1,275 @@
+#EXTM3U
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png",US | Cartoon Network/Adult Swim
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="United States",US | Disney Channel
+http://hdhd.tk/2409889086/6809889042/443
+#EXTINF:-1 group-title="United States",US | Disney Jr.
+http://hdhd.tk/2409889086/6809889042/445
+#EXTINF:-1 group-title="United States",US | Disney XD
+http://hdhd.tk/2409889086/6809889042/447
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",US | Nick Jr
+http://206.212.244.26/live/vasconeves/1742766045/23276.ts
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png",US | Nicktoons
+http://206.212.244.26/live/vasconeves/1742766045/23274.ts
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png",US | Teennick
+http://bd33.xyz/live/8B2C54Y/3ZJJA63/494715.ts
+#EXTINF:-1 group-title="United States",US | Nickelodeon
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="United States",US | Nick Music
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title="United States",US | BabyFirst
+http://broadcast-live-delivery-cdn.jwplayer.com/live/broadcast/yMI6LT67.m3u8
+#EXTINF:-1 group-title="United States",US | Heros & Icons
+http://108.14.66.101:5004/auto/v9.4
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-toons-us.png",US | MeTV Toons
+http://206.212.244.26/live/vasconeves/1742766045/48753.ts
+#EXTINF:-1 group-title="United States",US | Story Television
+http://c-73-44-50-12.hsd1.il.comcast.net:9981/tvheadend/stream/channel/e961ddbc19378a7a07b47c29985f692b?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 group-title="United States",US | Catchy Comedy
+http://108.14.66.101:5004/auto/v5.5
+#EXTINF:-1 group-title="United States",US | Dabl
+http://108.14.66.101:5004/auto/v2.3
+#EXTINF:-1 group-title="United States",US | Antenna TV
+http://108.14.66.101:5004/auto/v11.2
+#EXTINF:-1 group-title="United States",US | Grit
+http://c-73-44-50-12.hsd1.il.comcast.net:9981/tvheadend/stream/channel/568c5556894df9bd88502862a9969a68?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 group-title="United States",US | The Nest
+http://c-73-44-50-12.hsd1.il.comcast.net:9981/tvheadend/stream/channel/316bc4f6db6555642c6c11feab3f9a60?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 group-title="United States",US | OWN
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 group-title="United States",US | BBC America
+http://128.230.54.150:5004/auto/v33.1
+#EXTINF:-1 group-title="United States",US | FOX News
+http://128.230.54.150:5004/auto/v41.2
+#EXTINF:-1 group-title="United States",US | CNN
+http://128.230.54.150:5004/auto/v41.1
+#EXTINF:-1 group-title="United States",US | MSNBC
+http://128.230.54.150:5004/auto/v41.3
+#EXTINF:-1 group-title="United States",US | CNBC
+http://128.230.54.150:5004/auto/v42.2
+#EXTINF:-1 group-title="United States",US | Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="United States",US | Hallmark Network
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="United States",US | Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="United States",US | Starz
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="United States",US | HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="United States",US | MGM+
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="United States",US | NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | CBS Sports
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="United States",US | UniMas
+https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
+#EXTINF:-1 group-title="United States",US | Univision
+https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8
+#EXTINF:-1 group-title="United States",US | Freeform
+http://212.102.60.231/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="United States",US | Laff
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 group-title="United States",US | FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="United States",US | American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 group-title="United States",US | TLC
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 group-title="United States",US | WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="United States",US | TV Land
+http://fl2.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 group-title="United States",US | Food Network
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | USA
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 group-title="United States",US | Nick Pluto TV
+https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
+#EXTINF:-1 group-title="United States",US | Totally Teen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6450209d939a5900084dba1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="United States",US | SYFYY
+http://212.102.60.231/SYFY/index.m3u8
+#EXTINF:-1 group-title="United States",US | TCM
+http://143.244.60.30/TCM/index.m3u8
+#EXTINF:-1 group-title="United States",US | TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="United States",US | TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="United States",US | HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="United States",US | Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="United States",US | Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title="United States",US | BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="United States",US | Lifetime
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="United States",US | PBS
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 group-title="United States",US | PBS (WLRN)
+http://205.196.146.91:5004/auto/v17.1
+#EXTINF:-1 group-title="United States",US | PBS (WPBT)
+http://205.196.146.91:5004/auto/v2.1
+#EXTINF:-1 group-title="United States",US | PBS (WNET)
+http://108.14.66.101:5004/auto/v13.1
+#EXTINF:-1 group-title="United States",US | PBS (WKMJ-TV)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 group-title="United States",US | PBS (KET KY)
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 group-title="United States",US | PBS (KET2)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1 group-title="United States",US | PBS (KET World)
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1 group-title="United States",US | PBS Create (WMPT-DT2)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 group-title="United States",US | PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
+#EXTINF:-1 group-title="United States",US | PBS Kids (Hawaii Sub-Feed)
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast_2.m3u8
+#EXTINF:-1 group-title="United States",US | PBS Kids (Alaska Sub-Feed)
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst_2.m3u8
+#EXTINF:-1 group-title="United States",US | PBS Kids (Mountain Sub-Feed)
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst_2.m3u8
+#EXTINF:-1 group-title="United States",US | PBS Kids (Pacific Sub-Feed)
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst_2.m3u8
+#EXTINF:-1 group-title="United States",US | PBS Kids (KET)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="United States",US | PBS Kids (WNET)
+http://108.14.66.101:5004/auto/v13.2
+#EXTINF:-1 group-title="United States",US | PBS Kids (WUCF)
+http://208.89.99.124:5004/auto/v24.3
+#EXTINF:-1 group-title="United States",US | PBS Kids (WPBT)
+http://205.196.146.91:5004/auto/v2.4
+#EXTINF:-1 group-title="United States",US | Charge
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="United States",US | FOX
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="United States",US | FOX (WNYW FOX 5 NY)
+http://108.14.66.101:5004/auto/v5.1
+#EXTINF:-1 group-title="United States",US | FOX Weather
+http://108.14.66.101:5004/auto/v5.3
+#EXTINF:-1 group-title="United States",US | Magnoila Network
+http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 group-title="United States",US | TruTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="United States",US | Weather Network
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="United States",US | NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="United States",US | YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | Bounce
+http://72.46.118.193/Bounce/index.m3u8
+#EXTINF:-1 group-title="United States",US | MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="United States",US | Investigation Discovery
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="United States",US | NBC
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="United States",US | NBC (WNBC 4 NY)
+http://108.14.66.101:5004/auto/v4.1
+#EXTINF:-1 group-title="United States",US | NBC (WESH-DT)
+http://208.89.99.124:5004/auto/v2.1
+#EXTINF:-1 group-title="United States",US | NBC American Crimes
+http://108.14.66.101:5004/auto/v4.3
+#EXTINF:-1 group-title="United States",US | FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="United States",US | FX
+http://128.230.54.150:5004/auto/v32.3
+#EXTINF:-1 group-title="United States",US | HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 group-title="United States",US | Discovery Family
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="United States",US | ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="United States",US | ABC (WFTV-DT)
+http://208.89.99.124:5004/auto/v9.1
+#EXTINF:-1 group-title="United States",US | WCBS-TV
+http://108.14.66.101:5004/auto/v2.1
+#EXTINF:-1 group-title="United States",US | CBS (WKMG-TV)
+http://208.89.99.124:5004/auto/v6.1
+#EXTINF:-1 group-title="United States",US | The CW
+http://128.230.54.150:5004/auto/v13.1
+#EXTINF:-1 group-title="United States",US | Start TV
+http://108.14.66.101:5004/auto/v2.2
+#EXTINF:-1 group-title="United States",US | Fave TV
+http://108.14.66.101:5004/auto/v2.4
+#EXTINF:-1 group-title="United States",US | Comet
+http://108.14.66.101:5004/auto/v2.5
+#EXTINF:-1 group-title="United States",US | Cozi TV
+http://108.14.66.101:5004/auto/v4.2
+#EXTINF:-1 group-title="United States",US | Oxygen True Crime
+http://108.14.66.101:5004/auto/v4.4
+#EXTINF:-1 group-title="United States",US | TBD
+http://108.14.66.101:5004/auto/v5.4
+#EXTINF:-1 group-title="United States",US | Buzzr
+http://108.14.66.101:5004/auto/v9.3
+#EXTINF:-1 group-title="United States",US | WWOR-TV (My9)
+http://108.14.66.101:5004/auto/v9.1
+#EXTINF:-1 group-title="United States",US | Diya TV (WDYA-LD)
+http://108.14.66.101:5004/auto/v10.1
+#EXTINF:-1 group-title="United States",US | Game Show Network
+http://cord-cutter.net:8080/gPe4Z1/132932/57430
+#EXTINF:-1 group-title="United States",US | Movies!
+http://108.14.66.101:5004/auto/v5.2
+#EXTINF:-1 group-title="United States",US | OAN Plus
+http://108.14.66.101:5004/auto/v10.4
+#EXTINF:-1 group-title="United States",US | AWE Plus
+http://108.14.66.101:5004/auto/v10.5
+#EXTINF:-1 group-title="United States",US | Rewind TV
+http://108.14.66.101:5004/auto/v11.4
+#EXTINF:-1 group-title="United States",US | Ovation
+http://128.230.54.150:5004/auto/v40.3
+#EXTINF:-1 group-title="United States",US | Paramount Network
+http://128.230.54.150:5004/auto/v34.2
+#EXTINF:-1 group-title="United States",US | VH1
+http://128.230.54.150:5004/auto/v34.3
+#EXTINF:-1 group-title="United States",US | Great American Family
+http://128.230.54.150:5004/auto/v47.1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="United States",US | NESN UHD
+https://a1xs.vip/4000080
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="United States",US | MSG FHD
+https://a1xs.vip/4000001
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="United States",US | MSG_PLUS FHD
+https://a1xs.vip/4000002
+#EXTINF:-1 tvg-name="NESN FHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="United States",US | NESN FHD
+https://a1xs.vip/4000004
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="United States",US | Spectrum Sportsnet FHD
+https://a1xs.vip/4000006
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7W1KSYQ/cbs-sports.png" group-title="United States",US | CBS Sports Network FHD
+https://a1xs.vip/4000007
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="United States",US | ESPN HD
+https://a1xs.vip/40000011
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espn-2.png" group-title="United States",US | ESPN2 HD
+https://a1xs.vip/40000012
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espn-u.png" group-title="United States",US | ESPNU HD
+https://a1xs.vip/40000013
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" group-title="United States",US | ESPN News
+https://a1xs.vip/40000014
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="United States",US | SEC Network HD
+https://a1xs.vip/40000015
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" group-title="United States",US | ACC Network HD
+https://a1xs.vip/40000016
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="United States",US | FS1 HD
+https://a1xs.vip/40000021
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="United States",US | FS2 HD
+https://a1xs.vip/40000022
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/mlb-nw.png" group-title="United States",US | MLB Network
+https://a1xs.vip/40000030
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/nba-tv.png" group-title="United States",US | NBA TV
+https://a1xs.vip/40000031
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/nfl-nw.png" group-title="United States",US | NFL Network
+https://a1xs.vip/40000032
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/nfl-rz.png" group-title="United States",US | NFL RedZone
+https://a1xs.vip/40000033
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/nhl-nw.png" group-title="United States",US | NHL Network
+https://a1xs.vip/40000034
