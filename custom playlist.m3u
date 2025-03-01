@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="abc.wpvi.philadelphia.pa.us" tvg-name="abc.wpvi.philadelphia.pa.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.starlite.best/abc.wpvi.philadelphia.pa.us.png",ABC (WPVI) Philadelphia PA
+https://tvnow.best/api/stream/smart/smart/livetv.epg/abc.wpvi.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="cbs.kyw.philadelphia.pa.us" tvg-name="cbs.kyw.philadelphia.pa.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.starlite.best/cbs.kyw.philadelphia.pa.us.png",CBS (KYW) Philadelphia PA
+https://tvnow.best/api/stream/smart/smart/livetv.epg/cbs.kyw.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="nbc.wcau.philadelphia.pa.us" tvg-name="nbc.wcau.philadelphia.pa.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.starlite.best/nbc.wcau.philadelphia.pa.us.png",NBC (WCAU) Philadelphia PA
+https://tvnow.best/api/stream/smart/smart/livetv.epg/nbc.wcau.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.philadelphia.us" tvg-name="nbc.sports.philadelphia.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.starlite.best/nbc.sports.philadelphia.us.png",NBC Sports Philadelphia
+https://tvnow.best/api/stream/smart/smart/livetv.epg/nbc.sports.philadelphia.us.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.philadelphia.plus.us" tvg-name="nbc.sports.philadelphia.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.starlite.best/nbc.sports.philadelphia.plus.us.png",NBC Sports Philadelphia+ US
+https://tvnow.best/api/stream/smart/smart/livetv.epg/nbc.sports.philadelphia.plus.us.m3u8
+#EXTINF:-1 tvg-id="mls.phil.sport" tvg-name="mls.phil.sport" tvg-type="live" group-title="Sports EPL EFL UEFA MLS" tvg-logo="https://media.starlite.best/mls.phil.sport.png",MLS Philadelphia Union
+https://tvnow.best/api/stream/smart/smart/livetv.epg/mls.phil.sport.m3u8
+#EXTINF:-1 tvg-id="mlb.teams.phi.us" tvg-name="mlb.teams.phi.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.starlite.best/mlb.teams.phi.us.png",MLB Philadelphia Phillies
+https://tvnow.best/api/stream/smart/smart/livetv.epg/mlb.teams.phi.us.m3u8
+#EXTINF:-1 tvg-id="mlb.teams.nym.us" tvg-name="mlb.teams.nym.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.starlite.best/mlb.teams.nym.us.png",MLB New York Mets
+https://tvnow.best/api/stream/smart/smart/livetv.epg/mlb.teams.nym.us.m3u8
+#EXTINF:-1 tvg-id="sny.sportsnet.new.york.us" tvg-name="sny.sportsnet.new.york.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.starlite.best/sny.sportsnet.new.york.us.png",SNY (SportsNet New York)
+https://tvnow.best/api/stream/smart/smart/livetv.epg/sny.sportsnet.new.york.us.m3u8
