@@ -11,7 +11,7 @@ https://tvnow.best/api/stream/smart/smart/livetv.epg/nbc.sports.philadelphia.us.
 https://tvnow.best/api/stream/smart/smart/livetv.epg/nbc.sports.philadelphia.plus.us.m3u8
 #EXTINF:-1 tvg-id="mls.phil.sport" tvg-name="mls.phil.sport" tvg-type="live" group-title="Sports EPL EFL UEFA MLS" tvg-logo="https://media.starlite.best/mls.phil.sport.png",MLS Philadelphia Union
 https://tvnow.best/api/stream/smart/smart/livetv.epg/mls.phil.sport.m3u8
-#EXTINF:-1 tvg-id="mlb.teams.phi.us" tvg-name="mlb.teams.phi.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.starlite.best/mlb.teams.phi.us.png",MLB Philadelphia Phillies
+#EXTINF:-1 tvg-id="mlb.teams.phi.us" tvg-name="mlb.teams.phi.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://github.com/danfalsej/us-test-2/blob/main/Philadelphia_Phillies_(2019)_logo.svg.png",MLB Philadelphia Phillies
 https://tvnow.best/api/stream/smart/smart/livetv.epg/mlb.teams.phi.us.m3u8
 #EXTINF:-1 tvg-id="mlb.teams.nym.us" tvg-name="mlb.teams.nym.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.starlite.best/mlb.teams.nym.us.png",MLB New York Mets
 https://tvnow.best/api/stream/smart/smart/livetv.epg/mlb.teams.nym.us.m3u8
