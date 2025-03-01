@@ -5,6 +5,8 @@ https://tvnow.best/api/stream/smart/smart/livetv.epg/abc.wpvi.philadelphia.pa.us
 https://tvnow.best/api/stream/smart/smart/livetv.epg/cbs.kyw.philadelphia.pa.us.m3u8
 #EXTINF:-1 tvg-id="nbc.wcau.philadelphia.pa.us" tvg-name="nbc.wcau.philadelphia.pa.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.starlite.best/nbc.wcau.philadelphia.pa.us.png",NBC (WCAU) Philadelphia PA
 https://tvnow.best/api/stream/smart/smart/livetv.epg/nbc.wcau.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="mlb.network.strike.zone.us" tvg-name="mlb.network.strike.zone.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.starlite.best/mlb.network.strike.zone.us.png",MLB Network Strike Zone US
+https://tvnow.best/api/stream/smart/smart/livetv.epg/mlb.network.strike.zone.us.m3u8
 #EXTINF:-1 tvg-id="nbc.sports.philadelphia.us" tvg-name="nbc.sports.philadelphia.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.starlite.best/nbc.sports.philadelphia.us.png",NBC Sports Philadelphia
 https://tvnow.best/api/stream/smart/smart/livetv.epg/nbc.sports.philadelphia.us.m3u8
 #EXTINF:-1 tvg-id="nbc.sports.philadelphia.plus.us" tvg-name="nbc.sports.philadelphia.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.starlite.best/nbc.sports.philadelphia.plus.us.png",NBC Sports Philadelphia+ US
