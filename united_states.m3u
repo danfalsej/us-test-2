@@ -11,7 +11,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/2692.m3u8
 http://user.scalecdn.co:8080/live/26725074/92867131/629110.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(KNXV).Phoenix.AZ.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png",ABC Phoenix (KNXV)
 http://user.scalecdn.co:8080/live/26725074/92867131/2677.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="ABC.(KABC).Los.Angeles.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png",ABC Los Angeles (KABC)
+#EXTINF:-1 group-title="United States" tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png",ABC Los Angeles (KABC)
 http://208.89.99.124:5004/auto/v9.1
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(KOMO).Seattle.WA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png",ABC Seattle (KOMO)
 http://user.scalecdn.co:8080/live/26725074/92867131/2668.m3u8
