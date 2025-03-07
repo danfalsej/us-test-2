@@ -3,7 +3,7 @@
 https://tvnow.best/api/stream/smart/smart/livetv.epg/abc.wpvi.philadelphia.pa.us.m3u8
 #EXTINF:-1 tvg-id="cbs.eastern.us" tvg-name="cbs.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.starlite.best/cbs.eastern.us.png",CBS East
 https://tvnow.best/api/stream/smart/smart/livetv.epg/cbs.eastern.us.m3u8
-#EXTINF:-1 tvg-id="cbs.kyw.philadelphia.pa.us" tvg-name="cbs.kyw.philadelphia.pa.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.starlite.best/cbs.kyw.philadelphia.pa.us.png",CBS (KYW) Philadelphia PA
+#EXTINF:-1 tvg-id="cbs.kyw.philadelphia.pa.us" tvg-name="CBS.(KYW).Philadelphia,.PA.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.starlite.best/cbs.kyw.philadelphia.pa.us.png",CBS (KYW) Philadelphia PA
 https://tvnow.best/api/stream/smart/smart/livetv.epg/cbs.kyw.philadelphia.pa.us.m3u8
 #EXTINF:-1 tvg-id="nbc.wcau.philadelphia.pa.us" tvg-name="nbc.wcau.philadelphia.pa.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.starlite.best/nbc.wcau.philadelphia.pa.us.png",NBC (WCAU) Philadelphia PA
 https://tvnow.best/api/stream/smart/smart/livetv.epg/nbc.wcau.philadelphia.pa.us.m3u8
