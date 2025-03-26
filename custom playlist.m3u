@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABC.(WPVI).Philadelphia,.PA.us" tvg-name="ABC.(WPVI).Philadelphia,.PA.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.starlite.best/abc.wpvi.philadelphia.pa.us.png",ABC (WPVI) Philadelphia PA
 https://tvnow.best/api/stream/smart/smart/livetv.epg/abc.wpvi.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="cbs.eastern.us" tvg-name="cbs.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.starlite.best/cbs.eastern.us.png",CBS East
+https://tvnow.best/api/stream/smart/smart/livetv.epg/cbs.eastern.us.m3u8
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS.(WCBS).New.York,.NY.us" tvg-type="live" group-title="US" tvg-logo="https://media.starlite.best/cbs.eastern.us.png",CBS East
 https://tvnow.best/api/stream/smart/smart/livetv.epg/cbs.eastern.us.m3u8
 #EXTINF:-1 tvg-id="CBS.(KYW).Philadelphia,.PA.us" tvg-name="CBS.(KYW).Philadelphia,.PA.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.starlite.best/cbs.kyw.philadelphia.pa.us.png",CBS (KYW) Philadelphia PA
