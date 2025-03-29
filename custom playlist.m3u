@@ -23,3 +23,7 @@ https://tvnow.best/api/stream/smart/smart/livetv.epg/mlb.teams.phi.us.m3u8
 https://tvnow.best/api/stream/smart/smart/livetv.epg/mlb.teams.nym.us.m3u8
 #EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-name="SNY:.SportsNet.New.York.(Comcast).us" tvg-type="live" group-title="Sports" tvg-logo="https://media.starlite.best/sny.sportsnet.new.york.us.png",SNY (SportsNet New York)
 https://tvnow.best/api/stream/smart/smart/livetv.epg/sny.sportsnet.new.york.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="fox.sports.1.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.starlite.best/fox.sports.1.us.png",Fox Sports 1
+https://tvnow.best/api/stream/smart/smart/livetv.epg/fox.sports.1.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="fox.sports.2.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.starlite.best/fox.sports.2.us.png",Fox Sports 2
+https://tvnow.best/api/stream/smart/smart/livetv.epg/fox.sports.2.us.m3u8
