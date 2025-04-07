@@ -33,7 +33,7 @@ https://v1.thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8
 https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-logo="http://lonewolftvpr.com/logos/sny.png" group-title="United States",SNY
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/330
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-name="NBC Sports Philadelphia" tvg-logo="https://i.imgur.com/ClsPpm6.png" group-title="Sports",NBC Sports Philadelphia
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-name="NBC Sports Philadelphia" tvg-logo="https://i.imgur.com/ClsPpm6.png" group-title="US Sports",NBC Sports Philadelphia
 https://a1xs.vip/400051
 #EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-name="SportsNet NY FHD" tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png" group-title="Sports",SportsNet NY FHD
 https://a1xs.vip/40000045
