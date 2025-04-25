@@ -39,4 +39,5 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000045
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CNBC FHD" tvg-logo="https://i.imgur.com/1gRfE1V.png" group-title="US Channels",CBS FHD
 https://a1xs.vip/300010
-
+#EXTINF:-1 group-title="United States" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17610_h15_af.png",Bravo (US)
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
