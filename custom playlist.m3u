@@ -45,7 +45,9 @@ https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png" group-title="Sports",NBC Sports Philadelphia (720p)
 https://tvpass.org/live/nbc-sports-philadelphia/hd
-
+#EXTINF:-1 group-title="国际",Hallmark
+http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17610_h15_af.png",Bravo (US)
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
+
 
