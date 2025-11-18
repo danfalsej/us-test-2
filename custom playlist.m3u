@@ -21,6 +21,8 @@ https://tvpass.org/live/nbc-sports-philadelphia/hd
 http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17610_h15_af.png",Bravo (US)
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="WCBSDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/512px-CBS_2.svg.png" group-title="Undefined",WCBS-DT1 (720p)
+https://tvpass.org/live/WCBSDT1/hd
 
 
 
