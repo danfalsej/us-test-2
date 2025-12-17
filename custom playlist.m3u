@@ -23,6 +23,14 @@ http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="WCBSDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/512px-CBS_2.svg.png" group-title="Undefined",WCBS-DT1 (720p)
 https://tvpass.org/live/WCBSDT1/hd
+#EXTINF:-1 group-title="Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png",Global Toronto (CIII-DT)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40703.ts
+#EXTINF:-1 group-title="Canada" tvg-id="global.bc.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png",Global BC (CHAN-DT)
+http://speccy.pw:8080/live/111111/111111/316989.ts
+#EXTINF:-1 group-title="Canada" tvg-id="Global.Halifax.(CIHF).ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Maritimes_GuideLogo_240x144.png",Global Maritimes (CIHF-DT)
+http://user.scalecdn.co:8080/live/26725074/92867131/88027.ts
+
+
 
 
 
